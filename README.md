@@ -1,5 +1,3 @@
-# projeto-listagem-pokemon
-
 Projeto criado durante o evento "Semana do zero ao programador contratado" do canal DEV em dobro.
 
 O objetivo foi criar um site de listagem de pokemons usando HTML, CSS e Javascript.
